@@ -15,7 +15,7 @@ eta==0.9.7
 fake-headers==1.0.2
 fake-useragent==0.1.11
 gevent==21.12.0
-greenlet>=1.1.2
+greenlet>=2.0.0
 grequests==0.6.0
 html5lib==1.1
 humanfriendly==10.0
