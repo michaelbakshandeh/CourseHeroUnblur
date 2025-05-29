@@ -27,7 +27,7 @@ importlib-resources==5.4.0
 jinxed==1.1.0
 lxml==4.8.0
 networkx==2.7.1
-numpy==1.22.3
+numpy
 ocrmypdf==13.4.1
 opencv-python==4.5.5.64
 packaging==21.3
